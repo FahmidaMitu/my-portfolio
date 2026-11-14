@@ -4,7 +4,7 @@ A responsive and interactive **Personal Portfolio Website** built using **React.
 
 ## 🔗 Live Demo & Repository
 
-- **Live Website:** [https://vercel.com/mitu11/my-portfolio]
+- **Live Website:** [https://my-portfolio-mitu11.vercel.app/]
 - **GitHub Repository:** [https://github.com/FahmidaMitu/my-portfolio.git]
 
 ## ✨ Features
