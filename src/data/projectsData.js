@@ -12,7 +12,7 @@ export const projectsData = [
     id: 2,
     title: "AI Job Application Tracker & Complete Documentation",
     description: "An AI-powered Django web application designed to help job seekers track their job applications and automatically analyze job descriptions using AI.",
-    image: "public/project2.png",
+    image: "/project2.png",
     technologies: ["Python", "Django"],
     liveLink: "https://drive.google.com/file/d/1K2ibXDCpgrvka7QL_coinWogUfD6p6Hv/view",
     githubLink: "https://github.com/FahmidaMitu/job_tracker_project.git"
