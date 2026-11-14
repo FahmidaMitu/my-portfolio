@@ -30,7 +30,7 @@ export const projectsData = [
     id: 4,
     title: "Bank Account Transaction Management System",
     description: "A full-featured Bank Account Transaction Management System built with Django and Bootstrap 5. This system allows authenticated users to manage their bank accounts, deposit/withdraw money, track real-time balance, search/filter transaction history, and view dynamic dashboard analytics.",
-    image: "public/project4.png",
+    image: "/project4.png",
     technologies: ["HTML", "CSS", "JavaScript", "MySQL"],
     liveLink: "https://drive.google.com/drive/folders/1UigcxwzDcB3io9iRwlOARpZ-Tdv-88eD",
     githubLink: "https://github.com/FahmidaMitu/bank_project.git"
