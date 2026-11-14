@@ -5,7 +5,7 @@ A responsive and interactive **Personal Portfolio Website** built using **React.
 ## 🔗 Live Demo & Repository
 
 - **Live Website:** [Add your Vercel/Netlify Live Link Here]
-- **GitHub Repository:** [Add your GitHub Repository Link Here]
+- **GitHub Repository:** [https://github.com/FahmidaMitu/my-portfolio.git]
 
 ## ✨ Features
 
@@ -54,7 +54,7 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/my-portfolio.git](https://github.com/yourusername/my-portfolio.git)
+   git clone [https://github.com/FahmidaMitu/my-portfolio.git](https://github.com/FahmidaMitu/my-portfolio.git)
    ```
 
 2. **Navigate to the project directory:**
