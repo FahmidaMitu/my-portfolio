@@ -5,7 +5,7 @@ const Hero = () => {
     <section id="home" className="pt-32 pb-20 bg-gray-800 text-white text-center px-6">
       <div className="max-w-3xl mx-auto flex flex-col items-center">
         <img 
-          src="src\assets\Fahmida.JPG" 
+          src="public\Fahmida.JPG" 
           alt="Profile" 
           className="w-32 h-32 rounded-full object-cover border-4 border-blue-500 shadow-xl mb-6"
         />

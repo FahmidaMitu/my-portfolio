@@ -12,7 +12,7 @@ export const projectsData = [
     id: 2,
     title: "AI Job Application Tracker & Complete Documentation",
     description: "An AI-powered Django web application designed to help job seekers track their job applications and automatically analyze job descriptions using AI.",
-    image: "src/assets/project2.png",
+    image: "public/project2.png",
     technologies: ["Python", "Django"],
     liveLink: "https://drive.google.com/file/d/1K2ibXDCpgrvka7QL_coinWogUfD6p6Hv/view",
     githubLink: "https://github.com/FahmidaMitu/job_tracker_project.git"
@@ -30,7 +30,7 @@ export const projectsData = [
     id: 4,
     title: "Bank Account Transaction Management System",
     description: "A full-featured Bank Account Transaction Management System built with Django and Bootstrap 5. This system allows authenticated users to manage their bank accounts, deposit/withdraw money, track real-time balance, search/filter transaction history, and view dynamic dashboard analytics.",
-    image: "src/assets/project4.png",
+    image: "public/project4.png",
     technologies: ["HTML", "CSS", "JavaScript", "MySQL"],
     liveLink: "https://drive.google.com/drive/folders/1UigcxwzDcB3io9iRwlOARpZ-Tdv-88eD",
     githubLink: "https://github.com/FahmidaMitu/bank_project.git"
